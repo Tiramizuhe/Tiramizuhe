@@ -1,4 +1,4 @@
-<img width="637" height="542" alt="0d35cd68508384464bfb04989fc7670c" src="https://github.com/user-attachments/assets/64a69fba-a712-44c7-a58e-79d31abe493a" />
+<img width="527" height="542" alt="0d35cd68508384464bfb04989fc7670c" src="https://github.com/user-attachments/assets/64a69fba-a712-44c7-a58e-79d31abe493a" />
 
 Ok hi this is my readme ok? idk how to make this thing just small cuz im new makin this
 
