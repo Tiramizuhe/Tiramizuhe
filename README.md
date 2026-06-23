@@ -8,6 +8,8 @@ my friends/close friends:
 @Pursuerxziii
 @FadedDayooo
 
-and thank you for makin' my day better, happy, I'd like to thank you guys again 
+and thank you for makin' my day better . . I'd like to thank you guys again 
 you always make me happy when you guys are here with me , and even though we don't talk that much. . 
 it doesn't matter.! the thing is friends are always together :) 
+and will never be left behind ever in my entire life, so i think this is all for my bio for readme
+so yeah! 
