@@ -11,5 +11,5 @@ my friends/close friends:
 and thank you for makin' my day better . . I'd like to thank you guys again 
 you always make me happy when you guys are here with me , and even though we don't talk that much. . 
 it doesn't matter.! the thing is friends are always together :) 
-and will never be left behind ever in my entire life
+and will never be left behind ever
 
