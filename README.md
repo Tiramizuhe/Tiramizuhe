@@ -12,6 +12,6 @@ and thank you for makin' my day better . . I'd like to thank you guys again
 you always make me happy when you guys are here with me , and even though we don't talk that much. . 
 it doesn't matter.! the thing is friends are always together :) 
 and will never be left behind ever in my entire life
-<img width="741" height="528" alt="Screenshot 2026-06-24 145522" src="https://github.com/user-attachments/assets/c62077d1-8f51-4db3-84d0-078393e68c1a" />
 
-silly ones
+<img width="741" height="428" alt="Screenshot 2026-06-24 145522" src="https://github.com/user-attachments/assets/c62077d1-8f51-4db3-84d0-078393e68c1a" />
+
