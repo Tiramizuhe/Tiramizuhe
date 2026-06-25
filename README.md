@@ -2,9 +2,12 @@
 
 
 Ok hihi!
-my friends/close friends:
+my coolest friends
 
 @DAVESP0RT
 @Pursuerxziii
 @FadedDayooo
 
+<img width="673" height="642" alt="e959d9155ac9657fd1a71be40148f681" src="https://github.com/user-attachments/assets/1b000fd6-75c7-4b26-9384-de07418259b1" />
+
+i love sebastian , silly lil fishy
