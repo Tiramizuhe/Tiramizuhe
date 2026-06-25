@@ -8,5 +8,3 @@ my friends/close friends:
 @Pursuerxziii
 @FadedDayooo
 
-and thank you for makin' my day better . . I'd like to thank you guys again 
-you always make me happy when you guys are here with me idk what to say else .  ok..?
