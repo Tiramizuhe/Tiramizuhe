@@ -1,10 +1,9 @@
-<img width="736" height="292" alt="0d35cd68508384464bfb04989fc7670c" src="https://github.com/user-attachments/assets/59062825-3c83-4b57-a43a-e0ce20925b12" />
-
-
-Ny friends
+My friends
 
 @DAVESP0RT
 @Pursuerxziii
 @FadedDayooo
 
- 
+
+ <img width="360" height="217" alt="17830614166438521497414543075635" src="https://github.com/user-attachments/assets/d9388c3d-dd8c-48bc-824d-964196b68e88" />
+
