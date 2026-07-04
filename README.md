@@ -11,4 +11,4 @@ kk hi yall so I'm a fan of EMH i love all the characters but habit, man his so c
 
 i love vinny
 
-<img width="534" height="428" alt="17831399294855431639680744579936" src="https://github.com/user-attachments/assets/98a6d1a2-c480-4e28-a598-3a4a0b6813bc" />
+<img width="534" height="348" alt="17831399294855431639680744579936" src="https://github.com/user-attachments/assets/98a6d1a2-c480-4e28-a598-3a4a0b6813bc" />
