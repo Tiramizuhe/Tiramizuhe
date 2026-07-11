@@ -5,7 +5,7 @@ My friends
 @FadedDayooo
 
 
-POV: your close friend and you had different favorite fandom
+POV: my close friend and i had different favorite fandom
 
 
 
