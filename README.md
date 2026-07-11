@@ -26,6 +26,9 @@ POV: my close friend and i had different favorite fandom
 
 
 @FAIRMOUNTAVAN: 
+
+
+
 <img width="225" height="225" alt="17837352054021509819653585455384" src="https://github.com/user-attachments/assets/ed833f74-1207-4e55-b087-3b2a33e8fe47" />
 
 
