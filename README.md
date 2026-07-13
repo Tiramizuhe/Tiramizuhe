@@ -9,7 +9,7 @@ POV: my close friend and i had different favorite fandom
 
 
 
-@Tiramizueh
+Itrapped/piesona
 
 
 
@@ -25,7 +25,7 @@ POV: my close friend and i had different favorite fandom
 
 
 
-@FAIRMOUNTAVAN: 
+Habit
 
 
 
