@@ -1,5 +1,2 @@
-                                Hola¡
-
-                       BMF pls i don't bite haha
-
-                       (rmk readme in an hour) 
+                        $\color{Orange}{\text{pft. . . want pizza? get it yourself}}$
+                       
