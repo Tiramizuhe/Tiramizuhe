@@ -1,6 +1,4 @@
-                                  "VROOOM"
 
-<img width="990" height="772" alt="17850708784913942836608090585522" src="https://github.com/user-attachments/assets/81937b7e-61fe-49e0-84aa-9be7e61a02fb" />
-
-                                  
+  <img width="1024" height="200" alt="17852360673232365240065156375450" src="https://github.com/user-attachments/assets/6bc8a18b-9c8b-4da2-bbda-927c8d0613ef" />
+                           
                      
