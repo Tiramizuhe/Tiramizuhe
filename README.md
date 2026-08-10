@@ -11,6 +11,7 @@
 
 
 
-
-
-<img width="480" height="320" alt="17864006138418722348994130999179" src="https://github.com/user-attachments/assets/2da18488-82d2-45fc-b27b-5b47d93648e1" />
+    "oh darling.. why are you on low health again? here let me give you some pizza.. "
+    
+    
+   <img width="1380" height="108" alt="17864007375175468911574760001609" src="https://github.com/user-attachments/assets/9156cddf-d7c6-4675-ae0c-ebf63a5e9deb" />
