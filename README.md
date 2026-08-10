@@ -5,16 +5,6 @@
 
 <img width="340" height="351" alt="17863673987556170798392070886155" src="https://github.com/user-attachments/assets/edab0158-c64a-45bc-b7c9-b37acd633a85" /> <img width="540" height="406" alt="17863674160467423829537086965627" src="https://github.com/user-attachments/assets/984dd352-61e6-4bba-a90c-e953b303aeef" />
 
-                                  Elliot graphic ic: ruikareika & nerdconsumer2
 
 
-                               "You were always made by love and patience darling.."
- 
- 
- 
- 
- <img width="1280" height="108" alt="17863674531391736460780329963584" src="https://github.com/user-attachments/assets/cfcfa123-e69e-4a9f-abe0-eea47476a61b" />
- 
-<img width="440" height="305" alt="17863674965414851407821315799405" src="https://github.com/user-attachments/assets/3a7feb58-b831-4605-b8f9-f0108f094b85" />
-
-<img width="440" height="204" alt="17863675121505290374393517564124" src="https://github.com/user-attachments/assets/1fd136d1-464c-49ec-8ad5-de49a971dab0" />
+   <img width="80" height="33" alt="17864001965282206613081476096829" src="https://github.com/user-attachments/assets/a7e120c0-274a-498d-a538-4c641be28980" />
