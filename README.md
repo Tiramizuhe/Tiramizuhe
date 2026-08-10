@@ -14,4 +14,5 @@
     "oh darling.. why are you on low health again? here let me give you some pizza.. "
     
     
-   <img width="1380" height="108" alt="17864007375175468911574760001609" src="https://github.com/user-attachments/assets/9156cddf-d7c6-4675-ae0c-ebf63a5e9deb" />
+   <img width="1380" height="108" alt="17864007375175468911574760001609" src="https://github.com/user-attachments/assets/9156cddf-d7c6-4675-ae0c-ebf63a5e9deb" /><img width="1340" height="6" alt="17864008077182310788840789616607" src="https://github.com/user-attachments/assets/532f7bed-faaf-4588-b2e8-a04acfc7c7ee" />
+
