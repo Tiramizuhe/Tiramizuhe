@@ -2,3 +2,17 @@
 
 
 <img width="1055" height="1055" alt="image" src="https://github.com/user-attachments/assets/42ab8a2c-f42f-42a7-85e3-a6d2c985c378" />    "oh mapic,, you really thought we were friends?"
+
+ ⠀
+ ⠀ ⠀ ⠀
+  ⠀ ⠀ ⠀
+   ⠀ ⠀ ⠀ ⠀
+    ⠀ ⠀ ⠀ ⠀
+<---- strawpage
+ ⠀ ⠀
+  ⠀ ⠀
+ ⠀ ⠀ ⠀ ⠀
+ ⠀ ⠀
+ ⠀ ⠀ ⠀
+ ⠀ ⠀ ⠀
+ ⠀ ⠀WIP (i dont have time to upd it)
