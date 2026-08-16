@@ -20,4 +20,3 @@ artist/graphic creds: nerdconsumer2
 art/graphic creds : OO1 OO2 / xx-g4t3-t0-th3-und3rw0rld-xx
 both on Tumblr
 
-omg.. thanks for THE FOLLOWERS dang bro.. finally my wish came true, I'm like trying to get the same followers as my tiktok. (probably around 2k) 
