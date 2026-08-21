@@ -21,4 +21,4 @@
 
 
 
- 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　   $${{ art - by -sosyambas }}$$
+ 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　   $\color{#FADDB1}{textsf{ art - by -sosyambas }}$
