@@ -3,8 +3,5 @@
 
 
 
+$${textsf{color{#F79358} "Chance.? will you stay here with me..?}}$$
 
-
-
-
-finishing in 12 hour
