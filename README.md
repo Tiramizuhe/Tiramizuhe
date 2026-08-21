@@ -3,13 +3,13 @@
 
 
 
- ------------  $\color{#F79358}{\textsf{ "Chance.? will you stay here with me..? }}$
+  　　 　　 　　 　　 　　 　　  $\color{#F79358}{\textsf{ "Chance.? will you stay here with me..? }}$
 
 
 
-   $\color{#FABF63}{\textsf{ call me Elliot }}$
+  　　 　　 　　 　　  $\color{#FABF63}{\textsf{ call me Elliot }}$
 
-$${{other - ships - dni,, doubles - dni :-: freely - to - cuddle - cuz - im - a - cud - comf}}$$
+ 　　 　　 　　$${{other - ships - dni,, doubles - dni :-: freely - to - cuddle - cuz - im - a - cud - comf}}$$
 
 
 
@@ -21,4 +21,4 @@ $${{other - ships - dni,, doubles - dni :-: freely - to - cuddle - cuz - im - a 
 
 
 
-   $${{ art - by -sosyambas }}$$
+ 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　   $${{ art - by -sosyambas }}$$
