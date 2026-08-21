@@ -7,5 +7,4 @@
 
 
 
-<img width="944" height="1114" alt="image_3d90f3a8" src="https://github.com/user-attachments/assets/75c9685d-4367-4ebd-acbc-7568ff768b25" />
-
+finishing in 12 hour
