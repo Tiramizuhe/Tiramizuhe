@@ -7,7 +7,7 @@
 
 
 
-$${{textsf{/color{FABF63}  call me Elliot, , }}$$
+$\color{FABF63}{\textsf{ call me Elliot, , }}$$
 
 $${{other - ships - dni,, doubles - dni :-: freely - to - cuddle - cuz - im - a - cud - comf}}$$
 
