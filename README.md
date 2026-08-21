@@ -5,3 +5,9 @@
 
 $${{"Chance.? will you stay here with me..?}}$$
 
+
+
+$${{ call me Elliot, ,}}$$
+
+$${{other ships dni,, doubles dni :: freely to cuddle cuz im a cud comf}}$$
+
