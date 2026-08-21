@@ -9,7 +9,9 @@
 
   　　 　　 　　 　　  　　 　　 　　 　　 　　 　　 　　 $\color{#FABF63}{\textsf{ call me Elliot }}$
 
- 　　 　　 　　$${other  　ships 　　:&: 　　doubles 　　 dni  　　:: 　　 freely 　　 to 　　 cuddle 　　 cuz  　　im 　　a  　　cudcomf }}$$
+
+                                    
+$\color{#FADDB1}{\textsf{ double kin dni, freely to cuddle }}$
 
 
 
