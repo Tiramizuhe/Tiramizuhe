@@ -3,5 +3,5 @@
 
 
 
-$${textsf{color{#F79358} "Chance.? will you stay here with me..?}}$$
+$${textsf{color{F79358} "Chance.? will you stay here with me..?}}$$
 
