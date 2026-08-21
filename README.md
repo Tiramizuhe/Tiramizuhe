@@ -10,7 +10,7 @@
   　　 　　 　　 　　  　　 　　 　　 　　 　　 　　 　　 $\color{#FABF63}{\textsf{ call me Elliot }}$
                                     
                
- 　　 　　   $\color{#FADDB1}{\textsf{ double kin dni, }}$
+ 　　 　 　　 　　 　　 　　 　　 　　 　　 　　 　　　   $\color{#FADDB1}{\textsf{ double kin dni, }}$
 
 
    
