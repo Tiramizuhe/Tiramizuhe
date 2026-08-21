@@ -28,3 +28,5 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?Tiramizuhe)
+![Visitor Badge](https://glitch.me)
+
