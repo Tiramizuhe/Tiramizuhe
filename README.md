@@ -3,7 +3,7 @@
 
 
  　　 　　 　　
-  　　 　　 　　 　　 　　  　　  $\color{#F79358}{\textsf{ "Chance.? will you stay here with me..? }}$
+  　　 　　 　　 　　 　　  　　 $\color{#F79358}{\textsf{ "Chance.? will you stay here with me..? }}$
 
 
 
