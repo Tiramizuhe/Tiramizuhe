@@ -27,6 +27,6 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?Tiramizuhe)
-![Visitor Badge](https://glitch.me)
 
+
+<img width="104" height="20" alt="image" src="https://github.com/user-attachments/assets/2cd0ad50-08e0-4725-bd8b-272b240bf519" />
