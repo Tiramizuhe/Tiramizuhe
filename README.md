@@ -23,7 +23,7 @@
 
 
 
- 　　 　　 　　 　　 　　 　　 　　 　　    $\color{#FADDB1}{textsf{ art by sosyambas on Tumblr }}$
+ 　　 　　 　　 　　 　　 　　 　　 　　    ${{ art...by ...sosyambas ...on ...Tumblr }}$
 
 
 
