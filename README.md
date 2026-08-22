@@ -23,7 +23,7 @@
 
 
 
- 　　 　　 　　 　　 　　 　　 　　 　　    $\color{#FADDB1}{textsf{ art by sosyambas on Tumblr}}$
+ 　　 　　 　　 　　 　　 　　 　　 　　    $\color{#FADDB1}{ art by sosyambas on Tumblr}}$
 
 
 
