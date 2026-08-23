@@ -3,14 +3,14 @@
 
 
  　　 　　 　　
-  　　 　　 　　 　　 　　  　　 $\color{#F79358}{\textsf{ "Chance.? will you stay here with me..? }}$
+  　　 　　 　　 　　 　　   $\color{#F79358}{\textsf{ "Chance.? will you stay here with me..? }}$
 
 
 
-  　　 　　 　　 　　  　　 　　 　　 　　 　　 　　 　　 $\color{#FABF63}{\textsf{ call me Elliot }}$
-                                    
+  　　 　　 　　 　　  　　 　　 　　 　　 　　 　　 $\color{#FABF63}{\textsf{ call me Elliot }}$
+                                
                
- 　　 　 　　 　　 　　 　　 　　 　　 　　 　　 　　　   $\color{#FADDB1}{\textsf{ double kin dni, }}$
+ 　　 　 　　 　　 　　 　　 　　 　　 　　 　　 　  $\color{#FADDB1}{\textsf{ double kin dni, }}$
 
 
    
@@ -23,7 +23,7 @@
 
 
 
- 　　 　　 　　 　　 　　 　　 　　 　　    ${{ art...by ...sosyambas ...on ...Tumblr }}$
+ 　　 　　 　　 　　 　　 　　 　　 　   ${{ art...by ...sosyambas ...on ...Tumblr }}$
 
 
 
