@@ -26,7 +26,7 @@
  　　 　　 　　 　　 　　 　　 　　 　   ${{ art...by ...sosyambas ...on ...Tumblr }}$
 
 
-Log in to your Pc for a better view for my straw ^^! 
+rmkin readme in an hour
 
 
 
