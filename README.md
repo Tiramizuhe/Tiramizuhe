@@ -2,7 +2,7 @@
 
 
 
-  　　                          $/color{8C7B74}{\textsf{ :: elliot.. }}$
+  　　                          rmk it an a hour cuz im tired
 
 
 
