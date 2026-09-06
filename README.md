@@ -8,3 +8,6 @@
 <p align="center">$\color{#644741}{\textsf{  Elliot kins dni + no cuds ok  }}$
 
 <p align="center">$\color{#EFAC51}{\textsf{ Call me Elliot or Ellio >> short name: Elli}}$
+
+
+Profile is still a wip
