@@ -12,5 +12,4 @@
 
 Profile is still a wip
 
-<p align="center"><img src="https://ajajajuh.carrd.co/assets/images/image17.png?v=d68de19a" />
 
