@@ -1,33 +1,4 @@
-   <img width="890" height="184" alt="image" src="https://github.com/user-attachments/assets/74544b9b-5f55-4ded-958d-5b271a51940c" />
-
-
-
- 　　 　　 　　
-  　　 　　 　　 　　 　　   $\color{#F79358}{\textsf{ "Chance.? will you stay here with me..? }}$
-
-
-
-  　　 　　 　　 　　  　　 　　 　　 　　 　　 　　 $\color{#FABF63}{\textsf{ call me Elliot }}$
-                                
-               
- 　　 　 　　 　　 　　 　　 　　 　　 　　 　　 　  $\color{#FADDB1}{\textsf{ double kin dni, }}$
-
-
-   
-     
- <img width="760" height="692" alt="Untitled195_20260822044427" src="https://github.com/user-attachments/assets/8d02e2e8-0638-4928-a533-a55b2778b8f9" />
-
-
-
-
-
-
-
- 　　 　　 　　 　　 　　 　　 　　 　   ${{ art...by ...sosyambas ...on ...Tumblr }}$
-
-
-rmkin readme in an hour
-
+<img width="1280" height="99" alt="image" src="https://github.com/user-attachments/assets/51033f91-33a3-4e4f-82cc-6f1187b30449" />
 
 
 
