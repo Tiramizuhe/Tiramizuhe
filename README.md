@@ -2,7 +2,7 @@
 
 
 
-  　　                                 $\color}(8C7B74}{\textsf}{"will you be here with me?"}$$
+  　　                                 $\color}{8C7B74}{\textsf}{"will you be here with me?"}$$
 
 
 
