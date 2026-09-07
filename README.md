@@ -19,4 +19,13 @@
 
 
 
+
+
+
 <p align="center">$\color{#644741}{\textsf{ art creds: (Ill check cuz i forgot}}$
+
+
+
+
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Tiramizuhe&color=EFAC51&style=flat-square&label=^v^" />
