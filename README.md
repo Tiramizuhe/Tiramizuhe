@@ -14,4 +14,4 @@
 
  　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　
 
-<p align="center">$<img width="505" height="607" alt="Untitled202_20260906175806" src="https://github.com/user-attachments/assets/d2dba200-6d93-4415-a9c5-51d37bc15dd1" />
+<p align="center">$<img width="505" height="407" alt="Untitled202_20260906175806" src="https://github.com/user-attachments/assets/d2dba200-6d93-4415-a9c5-51d37bc15dd1" />
