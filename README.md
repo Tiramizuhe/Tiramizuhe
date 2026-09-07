@@ -19,4 +19,4 @@
 
 
 
-<p align="center">$\color{#644741}{\textsf} art creds: (Ill check cuz i forgot}}$
+<p align="center">$\color{#644741}{\textsf{ art creds: (Ill check cuz i forgot}}$
