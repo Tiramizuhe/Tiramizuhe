@@ -16,8 +16,8 @@
  　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　
 
 <p align="center">
-  pronouns: ℎ𝑒/𝑖𝑡/𝑡ℎ𝑒𝑚/𝑡ℎ𝑒𝑦 >$\color{#FF0000}&nbsp;&nbsp; 8𝑡𝑒𝑒𝑛<br>>$\color{#FF0000}
-  𝑤2𝑖 𝑚𝑜𝑠𝑡𝑙𝑦 𝑙𝑖𝑘𝑒𝑙𝑦 𝑎𝑓𝑘 '𝑣'>$\color{#FF0000}&nbsp;&nbsp; status
+  pronouns: ℎ𝑒/𝑖𝑡/𝑡ℎ𝑒𝑚/𝑡ℎ𝑒𝑦 &nbsp;&nbsp; 8𝑡𝑒𝑒𝑛<br>
+  𝑤2𝑖 𝑚𝑜𝑠𝑡𝑙𝑦 𝑙𝑖𝑘𝑒𝑙𝑦 𝑎𝑓𝑘 '𝑣'&nbsp;&nbsp; status
 </p>
 
 <details align="center">
