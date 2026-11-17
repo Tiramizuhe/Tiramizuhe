@@ -17,7 +17,7 @@
 
 <div align="center">
 
-$\color{#FF4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
+$\color{#3A0000}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 
 </div>
 
@@ -26,17 +26,16 @@ $\color{#FF4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 <details>
   <summary>$\color{#FF4D6D}{\textsf{BYI}}$</summary>
   
-  Write your hidden text here! Make sure to leave a blank line above and below this text so Markdown renders properly.
 </details>
 
 <details>
   <summary>$\color{#FF0000}{\textsf{names you can call me}}$</summary>
   
-  * Elliot (♥︎) 
-  * Travis(♥︎) 
-  * Andre (♥︎) 
-  * Adam (friends only) 
-  * Timey (friends only) 
+  * <summary>$\color{#3A0000}{\textsf{Elliot (♥︎)}}$</summary>
+  * <summary>$\color{#FF0000}{\textsf{names you can call me}}$</summary>
+  * <summary>$\color{#490000}{\textsf{names you can call me}}$</summary> 
+  * <summary>$\color{#FF4D6D}{\textsf{names you can call me}}$</summary> 
+  * <summary>$\color{#3A0000}{\textsf{names you can call me}}$</summary>
 </details>
 
 </div>
