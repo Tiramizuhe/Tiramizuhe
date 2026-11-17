@@ -21,19 +21,11 @@ $\color{#ff4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 
 </div>
 
-<div align="center>
-
-
+<div align="center">
 
 <details>
-  <summary>$\color{#FF0000}{\textsf{DNI/uf}}$</summary>
+  <summary>$\color{#FF4D6D}{\textsf{BYI}}$</summary>
   
-  * <summary>$\color{#FF6835}{\textsf{Elliot (♥︎)}}$</summary>
-  * <summary>$\color{#FF0000}{\textsf{dw fandom (friends only) }}$</summary>
-  * <summary>$\color{#ff4d6d}{\textsf{Dusekkar / slasher (MOST DNI) }}$</summary> 
-  * <summary>$\color{#490000}{\textsf{cof fandom (friends only) }}$</summary> 
-  * <summary>$\color{#3A0000}{\textsf{Double kins (MOST DNI) }}$</summary>
-
   
   
 </details>
