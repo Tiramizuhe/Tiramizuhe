@@ -62,6 +62,9 @@ $\color{#ff4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 
 </div>
 
+
+
+
 <div align="center">
 
 <details>
@@ -76,7 +79,14 @@ $\color{#ff4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 
 </div>
 
+
+
+
 <div align="center>
+
+
+</details>
+
 
 <details>
   <summary>$\color{#FF0000}{\textsf{DNI/uf}}$</summary>
