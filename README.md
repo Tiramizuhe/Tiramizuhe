@@ -17,37 +17,31 @@
 
 <p align="center">
   pronouns: ℎ𝑒/𝑖𝑡/𝑡ℎ𝑒𝑚/𝑡ℎ𝑒𝑦 &nbsp;&nbsp; 8𝑡𝑒𝑒𝑛<br>
-  𝑤2𝑖 𝑚𝑜𝑠𝑡𝑙𝑦 𝑙𝑖𝑘𝑒𝑙𝑦 𝑎𝑓𝑘 '𝑣'&nbsp;&nbsp; status
+  𝑤2𝑖 𝑚𝑜𝑠𝑡𝑙𝑦 𝑙𝑖𝑘𝑒𝑙𝑦 𝑎𝑓𝑘 '𝑣'&nbsp;&nbsp; 
 </p>
 
 <details align="center">
   <summary>idk</summary>
-  <p>Put your "Before You Interact" info here.</p>
+  <p></p>
 </details>
 
 <details align="center">
   <summary>names you can call me</summary>
-  <p>List your nicknames here.</p>
+  <p>Elliot (friends only) 
+  Travis (♥) 
+  </p>
 </details>
 
-<details align="center">
-  <summary>important I guess</summary>
-  <p>Add important notes here.</p>
-</details>
+
 
 <details align="center">
-  <summary>IWC</summary>
-  <p>Add "Interact With Caution" details here.</p>
-</details>
-
-<details align="center">
-  <summary>stupid movies / series i enjoy</summary>
-  <p>Movie 1, Series 2, Show 3</p>
+  <summary>s movies / series i enjoy</summary>
+  <p>zeroday2003, everymanhybrid, American horror story</p>
 </details>
 
 <details align="center">
   <summary>games i enjoy</summary>
-  <p>Game 1, Game 2, Game 3</p>
+  <p>cry of fear, among us, roblox, Colorfulstage,sonolus, Genshin impact</p>
 </details>
 
 
