@@ -15,8 +15,40 @@
 
  　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　
 
+<p align="center">
+  pronouns &nbsp;&nbsp; age<br>
+  extra info &nbsp;&nbsp; status
+</p>
 
+<details align="center">
+  <summary>idk</summary>
+  <p>Put your "Before You Interact" info here.</p>
+</details>
 
+<details align="center">
+  <summary>names you can call me</summary>
+  <p>List your nicknames here.</p>
+</details>
+
+<details align="center">
+  <summary>important I guess</summary>
+  <p>Add important notes here.</p>
+</details>
+
+<details align="center">
+  <summary>IWC</summary>
+  <p>Add "Interact With Caution" details here.</p>
+</details>
+
+<details align="center">
+  <summary>stupid movies / series i enjoy</summary>
+  <p>Movie 1, Series 2, Show 3</p>
+</details>
+
+<details align="center">
+  <summary>games i enjoy</summary>
+  <p>Game 1, Game 2, Game 3</p>
+</details>
 
 
 
