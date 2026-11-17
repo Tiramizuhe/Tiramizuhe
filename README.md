@@ -17,16 +17,19 @@
 
 <div align="center">
 
-$\color{#3A0000}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
+$\color{#ff4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 
 </div>
 
 <div align="center">
 
+
 <details>
   <summary>$\color{#FF4D6D}{\textsf{BYI}}$</summary>
   
+  
 </details>
+
 
 <details>
   <summary>$\color{#FF0000}{\textsf{names you can call me}}$</summary>
@@ -35,7 +38,7 @@ $\color{#3A0000}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
   * <summary>$\color{#FF0000}{\textsf{Travis (♥︎)}}$</summary>
   * <summary>$\color{#490000}{\textsf{Andre (♥︎)}}$</summary> 
   * <summary>$\color{#FF4D6D}{\textsf{Adam (friends only) }}$</summary> 
-  * <summary>$\color{#3A0000}{\textsf{Sophie}}$</summary>
+  * <summary>$\color{#FF6835}{\textsf{Pest}}$</summary>
 </details>
 
 </div>
@@ -50,11 +53,11 @@ $\color{#3A0000}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 <details>
   <summary>$\color{#490000}{\textsf{Favorite games}}$</summary>
   
-  * <summary>$\color{#3A0000}{\textsf{Elliot (♥︎)}}$</summary>
-  * <summary>$\color{#FF0000}{\textsf{Roblox}}$</summary>
-  * <summary>$\color{#490000}{\textsf{cry of fear}}$</summary> 
-  * <summary>$\color{#3A0000}{\textsf{genshin impact}}$</summary> 
-  * <summary>$\color{#ff0000}{\textsf{Colorful stage}}$</summary>
+  * <summary>$\color{#FF6835}{\textsf{Elliot (♥︎)}}$</summary>
+  * <summary>$\color{#3A0000}{\textsf{Roblox}}$</summary>
+  * <summary>$\color{#ff0000}{\textsf{cry of fear}}$</summary> 
+  * <summary>$\color{#490000}{\textsf{genshin impact}}$</summary> 
+  * <summary>$\color{#ff4d6d}{\textsf{Colorful stage}}$</summary>
 </details>
 
 </div>
@@ -65,14 +68,26 @@ $\color{#3A0000}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
   <summary>$\color{#FF0000}{\textsf{Favorite movies/series}}$</summary>
   
   * <summary>$\color{#3A0000}{\textsf{Elliot (♥︎)}}$</summary>
-  * <summary>$\color{#FF0000}{\textsf{American horror movie}}$</summary>
+  * <summary>$\color{#FF6835}{\textsf{American horror movie}}$</summary>
   * <summary>$\color{#490000}{\textsf{zeroday2003}}$</summary> 
   * <summary>$\color{#ff0000}{\textsf{everymanhybrird}}$</summary> 
-  * <summary>$\color{#490000}{\textsf{cat in the hat}}$</summary>
+  * <summary>$\color{#ff4d6d}{\textsf{cat in the hat}}$</summary>
 </details>
 
 </div>
 
+<div align="center>
 
+<details>
+  <summary>$\color{#FF0000}{\textsf{DNI/uf}}$</summary>
+  
+  * <summary>$\color{#FF6835}{\textsf{Elliot (♥︎)}}$</summary>
+  * <summary>$\color{#FF0000}{\textsf{dw fandom (friends only) }}$</summary>
+  * <summary>$\color{#ff4d6d}{\textsf{Dusekkar / slasher (MOST DNI) }}$</summary> 
+  * <summary>$\color{#490000}{\textsf{cof fandom (friends only) }}$</summary> 
+  * <summary>$\color{#3A0000}{\textsf{Double kins (MOST DNI) }}$</summary>
+</details>
+
+</div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Tiramizuhe&color=490000&style=flat-square&label=ˊ「🌸」⧽" />
