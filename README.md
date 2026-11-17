@@ -42,16 +42,36 @@ $\color{#3A0000}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 
 
 
-<details align="center">
-  <summary>s movies / series i enjoy</summary>
-  <p>zeroday2003, everymanhybrid, American horror story</p>
+<div align="center">
+
+  
 </details>
 
-<details align="center">
-  <summary>games i enjoy</summary>
-  <p>cry of fear, among us, roblox, Colorfulstage,sonolus, Genshin impact</p>
+<details>
+  <summary>$\color{#490000}{\textsf{Favorite games}}$</summary>
+  
+  * <summary>$\color{#3A0000}{\textsf{Elliot (♥︎)}}$</summary>
+  * <summary>$\color{#FF0000}{\textsf{Roblox}}$</summary>
+  * <summary>$\color{#490000}{\textsf{cry of fear}}$</summary> 
+  * <summary>$\color{#3A0000}{\textsf{genshin impact}}$</summary> 
+  * <summary>$\color{#ff0000}{\textsf{Colorful stage}}$</summary>
 </details>
 
+</div>
+
+<div align="center">
+
+<details>
+  <summary>$\color{#FF0000}{\textsf{Favorite movies/series}}$</summary>
+  
+  * <summary>$\color{#3A0000}{\textsf{Elliot (♥︎)}}$</summary>
+  * <summary>$\color{#FF0000}{\textsf{American horror movie}}$</summary>
+  * <summary>$\color{#490000}{\textsf{zeroday2003}}$</summary> 
+  * <summary>$\color{#ff0000}{\textsf{everymanhybrird}}$</summary> 
+  * <summary>$\color{#490000}{\textsf{cat in the hat}}$</summary>
+</details>
+
+</div>
 
 
 
