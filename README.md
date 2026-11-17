@@ -15,22 +15,31 @@
 
  　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　
 
-<p align="center">
-  pronouns: ℎ𝑒/𝑖𝑡/𝑡ℎ𝑒𝑚/𝑡ℎ𝑒𝑦 &nbsp;&nbsp; 8𝑡𝑒𝑒𝑛<br>
-  𝑤2𝑖 𝑚𝑜𝑠𝑡𝑙𝑦 𝑙𝑖𝑘𝑒𝑙𝑦 𝑎𝑓𝑘 '𝑣'&nbsp;&nbsp; 
-</p>
+<div align="center">
 
-<details align="center">
-  <summary>idk</summary>
-  <p></p>
+$\color{#FF4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
+
+</div>
+
+<div align="center">
+
+<details>
+  <summary>$\color{#FF4D6D}{\textsf{BYI}}$</summary>
+  
+  Write your hidden text here! Make sure to leave a blank line above and below this text so Markdown renders properly.
 </details>
 
-<details align="center">
-  <summary>names you can call me</summary>
-  <p>Elliot (friends only) 
-  Travis (♥) 
-  </p>
+<details>
+  <summary>$\color{#FF0000}{\textsf{names you can call me}}$</summary>
+  
+  * Elliot (♥︎) 
+  * Travis(♥︎) 
+  * Andre (♥︎) 
+  * Adam (friends only) 
+  * Timey (friends only) 
 </details>
+
+</div>
 
 
 
