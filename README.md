@@ -2,7 +2,7 @@
 
 
 
-<p align="center">$\color{#3A0000}{\textsf{ "a slice of pizza will help me hold on a little longer"  }}$
+<p align="center">$\color{#490000}{\textsf{ "a slice of pizza will help me hold on a little longer"  }}$
 
   
 <p align="center">$\color{#FF0045}{\textsf{  𝑓𝑖𝑛𝑎𝑙𝑙𝑦 𝑖 𝑐𝑎𝑛 𝑚𝑎𝑘𝑒 𝑡ℎ𝑖𝑠 𝑚𝑜𝑟𝑒 𝑏𝑒𝑡𝑡𝑒𝑟 𝑜𝑛 𝑝ℎ𝑜𝑛𝑒𝑠𝑒𝑒 𝑐𝑜𝑢𝑔ℎ 𝑜𝑘 𝑑𝑖𝑒𝑠 𝑖𝑛𝑠𝑡𝑎𝑛𝑙𝑦 𝑎𝑙𝑠𝑜 𝑖𝑚 𝑛𝑜𝑡 𝑢ℎ... 𝑇𝐶𝐶 𝑖 𝑤𝑜𝑢𝑙𝑑 𝑠𝑎𝑦}}$
