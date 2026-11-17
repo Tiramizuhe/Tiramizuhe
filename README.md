@@ -32,10 +32,10 @@ $\color{#3A0000}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
   <summary>$\color{#FF0000}{\textsf{names you can call me}}$</summary>
   
   * <summary>$\color{#3A0000}{\textsf{Elliot (♥︎)}}$</summary>
-  * <summary>$\color{#FF0000}{\textsf{names you can call me}}$</summary>
-  * <summary>$\color{#490000}{\textsf{names you can call me}}$</summary> 
-  * <summary>$\color{#FF4D6D}{\textsf{names you can call me}}$</summary> 
-  * <summary>$\color{#3A0000}{\textsf{names you can call me}}$</summary>
+  * <summary>$\color{#FF0000}{\textsf{Travis (♥︎)}}$</summary>
+  * <summary>$\color{#490000}{\textsf{Andre (♥︎)}}$</summary> 
+  * <summary>$\color{#FF4D6D}{\textsf{Adam (friends only) }}$</summary> 
+  * <summary>$\color{#3A0000}{\textsf{Sophie}}$</summary>
 </details>
 
 </div>
