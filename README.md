@@ -1,3 +1,4 @@
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Tiramizuhe&color=490000&style=flat-square&label=ˊ「🌸」⧽" />
 
 
 
@@ -84,4 +85,3 @@ $\color{#ff4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Tiramizuhe&color=490000&style=flat-square&label=ˊ「🌸」⧽" />
