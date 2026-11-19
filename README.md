@@ -17,7 +17,8 @@
 
 <p align="center"><img width="660" height="595" alt="Untitled247_20261117191759" src="https://github.com/user-attachments/assets/f408fecd-3f3a-4b49-bec7-e1d535b429da" />
 
- 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　
+ <𝑝 𝑎𝑙𝑖𝑔𝑛="𝑐𝑒𝑛𝑡𝑒𝑟">$\𝑐𝑜𝑙𝑜𝑟{#𝐹𝐹0000}{\𝑡𝑒𝑥𝑡𝑠𝑓{ 𝑤ℎ𝑦 𝑎𝑟𝑒 𝑦𝑜𝑢 𝑚𝑦 𝑐𝑙𝑎𝑟𝑖𝑡𝑦? }}$
+　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　 　　
 
 <div align="center">
 
