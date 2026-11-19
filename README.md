@@ -57,7 +57,6 @@ $\color{#ff4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 <details>
   <summary>$\color{#490000}{\textsf{Favorite games}}$</summary>
   
-  * <summary>$\color{#FF6835}{\textsf{Elliot (♥︎)}}$</summary>
   * <summary>$\color{#3A0000}{\textsf{Roblox}}$</summary>
   * <summary>$\color{#ff0000}{\textsf{cry of fear}}$</summary> 
   * <summary>$\color{#490000}{\textsf{genshin impact}}$</summary> 
@@ -74,7 +73,6 @@ $\color{#ff4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 <details>
   <summary>$\color{#FF0000}{\textsf{Favorite movies/series}}$</summary>
   
-  * <summary>$\color{#3A0000}{\textsf{Elliot (♥︎)}}$</summary>
   * <summary>$\color{#FF6835}{\textsf{American horror movie}}$</summary>
   * <summary>$\color{#490000}{\textsf{zeroday2003}}$</summary> 
   * <summary>$\color{#ff0000}{\textsf{everymanhybrird}}$</summary> 
