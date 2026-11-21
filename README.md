@@ -94,11 +94,10 @@ $\color{#ff4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
 
 <details>
   <summary>$\color{#490000}{\textsf{important things}}$</summary>
-  
-  <summary>$\color{#FF6835}{\textsf{ Hi! Here is something important you should know:
+<p align="center">$\color{#ff4d6d}{\textsf{ Hi! Here is something important you should know:
 For people who have the same character as me, please, PLEASE don't interact with me. I might also ignore your messages because I'm often busy talking to my friends on Discord, TikTok, Snapchat, etc.
 I can be a bit annoying since I yap all the time with my friends, so I sometimes go silent unless they start a conversation. When I do talk, I usually just chat normally without yapping too much, though I get awkward whenever I'm in the middle of doing something. Honestly, I'm mostly silent and just match my friend's energy—if they don't want to talk, that's fine, and if they do, I'd be happy to! :)
-For those who aren't my friends yet, just W2I or boop me to ask to be friends. I don't mind if you boop or whisper me, though I might reply late because I'm either playing Forsaken or chatting with friends. I guess that's all!
+For those who aren't my friends yet, just W2I or boop me to ask to be friends. I don't mind if you boop or whisper me, though I might reply late because I'm either playing Forsaken or chatting with friends. I guess that's all! }}$
 </details>
 
 </div>
