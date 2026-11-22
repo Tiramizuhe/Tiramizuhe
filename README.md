@@ -22,7 +22,7 @@
 
 <div align="center">
 
-$\color{#ff4D6D}{\textsf{he it they them\quad 8 teen\quad 15/16 iwvecuc}}$
+$\color{#ff4D6D}{\textsf{he it they them\quad 15/16 iwvecuc}}$
 
 </div>
 
